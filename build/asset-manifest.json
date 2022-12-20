@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/abhyuday-task-3/static/css/main.fd101ce5.css",
+    "main.js": "/abhyuday-task-3/static/js/main.6a589371.js",
+    "static/js/787.28cb0dcd.chunk.js": "/abhyuday-task-3/static/js/787.28cb0dcd.chunk.js",
+    "static/media/SaoTorpes.otf": "/abhyuday-task-3/static/media/SaoTorpes.42db167fdbb1ef2fc9d3.otf",
+    "index.html": "/abhyuday-task-3/index.html",
+    "main.fd101ce5.css.map": "/abhyuday-task-3/static/css/main.fd101ce5.css.map",
+    "main.6a589371.js.map": "/abhyuday-task-3/static/js/main.6a589371.js.map",
+    "787.28cb0dcd.chunk.js.map": "/abhyuday-task-3/static/js/787.28cb0dcd.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.fd101ce5.css",
+    "static/js/main.6a589371.js"
+  ]
+}
